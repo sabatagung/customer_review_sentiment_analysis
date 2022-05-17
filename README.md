@@ -3,4 +3,3 @@ Common libraries used are
 - numpy
 - scikit-learn
 - nltk
-- 
